@@ -1,4 +1,6 @@
 # A-custom-notificaton-using-python
+<br>
+for Window user only
  <br>
 
 times= float(input("Enter time interval for notification in seconds: "))
